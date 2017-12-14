@@ -1,4 +1,4 @@
-unction login(){
+function login(){
 	
 console.log("******************");
 console.log("login");
